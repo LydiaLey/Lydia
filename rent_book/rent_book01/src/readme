@@ -1,0 +1,4 @@
+主类main.java模拟了借书还书的过程，使用Runnable实现类的方式创建线程，
+rentBook为借书实现类，returnBook为还书实现类
+每个线程各创建5次，模拟借书还书过程
+:)
